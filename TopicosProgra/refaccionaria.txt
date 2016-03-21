@@ -1,0 +1,72 @@
+000Bateria
+Bateria
+General
+91
+500.00
+23/10/2010
+003Llanta
+Llanta
+Grande
+349
+4000.00
+23/10/2010
+001Llanta
+Llanta
+Chico
+0
+2000.00
+24/10/2010
+000WD-40
+WD-40
+General
+540
+45.50
+24/10/2010
+001Wipper
+Wipper
+Chico
+23
+50.00
+25/10/2010
+000AceiteTransmision
+AceiteTransmision
+General
+999
+90.00
+25/9/2010
+000Parche Para Llanta
+Parche Para Llanta
+General
+26
+15.60
+25/10/2010
+000Fusible 20Watt
+Fusible 20Watt
+General
+190
+5.00
+25/10/2010
+000Foco 5Watt
+Foco
+General
+26
+4.50
+26/10/2010
+001Cremallera
+Cremallera
+Chico
+0
+85.00
+27/10/2010
+001Filtro para Aceite
+Filtro para Aceite
+Chico
+21
+952.00
+27/10/2010
+000Fusible 5Watt
+Fusible 5Watt
+General
+2
+3.50
+6/11/2010
